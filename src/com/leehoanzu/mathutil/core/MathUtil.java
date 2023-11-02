@@ -32,7 +32,7 @@ public class MathUtil {
         
         //sống sot đến đây này, n = 2 ....20!!!
         //CẤM K XÀI ELSE NỮA KHI HÀM ĐÃ CÓ RETURN PHÍA TRƯỚC
-        long product = 10; //biến cộng dồn, biến con heo đất
+        long product = 1; //biến cộng dồn, biến con heo đất
                         //acc/accumulation/gửi góp
         for (int i = 2; i <= n; i++) 
             product *= i;
